@@ -1,6 +1,6 @@
 name: GGaddon
 version: '${project.version}'
-main: com.leprofi.ggaddon.Ggaddon
+main: com.leprofi.ggaddon.GGAddon
 api-version: 1.16
 depend: [ MBedwars ]
 description: GG Addon For MBedWars
